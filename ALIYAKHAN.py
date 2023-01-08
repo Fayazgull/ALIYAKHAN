@@ -393,22 +393,33 @@ logo = """
 
                                          
                                          
-YYYYYYY       YYYYYYYKKKKKKKKK    KKKKKKK
-Y:::::Y       Y:::::YK:::::::K    K:::::K
-Y:::::Y       Y:::::YK:::::::K    K:::::K
-Y::::::Y     Y::::::YK:::::::K   K::::::K
-YYY:::::Y   Y:::::YYYKK::::::K  K:::::KKK
-   Y:::::Y Y:::::Y     K:::::K K:::::K   
-    Y:::::Y:::::Y      K::::::K:::::K    
-     Y:::::::::Y       K:::::::::::K     
-      Y:::::::Y        K:::::::::::K     
-       Y:::::Y         K::::::K:::::K    
-       Y:::::Y         K:::::K K:::::K   
-       Y:::::Y       KK::::::K  K:::::KKK
-       Y:::::Y       K:::::::K   K::::::K
-    YYYY:::::YYYY    K:::::::K    K:::::K
-    Y:::::::::::Y    K:::::::K    K:::::K
-    YYYYYYYYYYYYY    KKKKKKKKK    KKKKKKK
+
+                                                                                                                     
+                                                                                                                     
+               AAA               LLLLLLLLLLL             IIIIIIIIIIYYYYYYY       YYYYYYY           AAA               
+              A:::A              L:::::::::L             I::::::::IY:::::Y       Y:::::Y          A:::A              
+             A:::::A             L:::::::::L             I::::::::IY:::::Y       Y:::::Y         A:::::A             
+            A:::::::A            LL:::::::LL             II::::::IIY::::::Y     Y::::::Y        A:::::::A            
+           A:::::::::A             L:::::L                 I::::I  YYY:::::Y   Y:::::YYY       A:::::::::A           
+          A:::::A:::::A            L:::::L                 I::::I     Y:::::Y Y:::::Y         A:::::A:::::A          
+         A:::::A A:::::A           L:::::L                 I::::I      Y:::::Y:::::Y         A:::::A A:::::A         
+        A:::::A   A:::::A          L:::::L                 I::::I       Y:::::::::Y         A:::::A   A:::::A        
+       A:::::A     A:::::A         L:::::L                 I::::I        Y:::::::Y         A:::::A     A:::::A       
+      A:::::AAAAAAAAA:::::A        L:::::L                 I::::I         Y:::::Y         A:::::AAAAAAAAA:::::A      
+     A:::::::::::::::::::::A       L:::::L                 I::::I         Y:::::Y        A:::::::::::::::::::::A     
+    A:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL  I::::I         Y:::::Y       A:::::AAAAAAAAAAAAA:::::A    
+   A:::::A             A:::::A   LL:::::::LLLLLLLLL:::::LII::::::II       Y:::::Y      A:::::A             A:::::A   
+  A:::::A               A:::::A  L::::::::::::::::::::::LI::::::::I    YYYY:::::YYYY  A:::::A               A:::::A  
+ A:::::A                 A:::::A L::::::::::::::::::::::LI::::::::I    Y:::::::::::Y A:::::A                 A:::::A 
+AAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLLIIIIIIIIII    YYYYYYYYYYYYYAAAAAAA                   AAAAAAA
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+
                                          
                        
 \033[1;35m
@@ -416,12 +427,32 @@ YYY:::::Y   Y:::::YYYKK::::::K  K:::::KKK
 \033[1;32m
 
 
-      _         ___          _   ______     _    _  ____  ____         ____  ____  
-     / \      .' ..]        (_) |_   _ `.  (_)  (_)|_  _||_  _|       |_  _||_  _| 
-    / _ \    _| |_  _ .--.  __    | | `. \ __   __   \ \  / / _ .--.    \ \  / /   
-   / ___ \  '-| |-'[ `/'`\][  |   | |  | |[  | [  |   \ \/ / [ `.-. |    > `' <    
- _/ /   \ \_  | |   | |     | |  _| |_.' / | |  | |   _|  |_  | | | |  _/ /'`\ \_  
-|____| |____|[___] [___]   [___]|______.' [___][___] |______|[___||__]|____||____| 
+
+                                                                                                                     
+                                                                                                                     
+               AAA               LLLLLLLLLLL             IIIIIIIIIIYYYYYYY       YYYYYYY           AAA               
+              A:::A              L:::::::::L             I::::::::IY:::::Y       Y:::::Y          A:::A              
+             A:::::A             L:::::::::L             I::::::::IY:::::Y       Y:::::Y         A:::::A             
+            A:::::::A            LL:::::::LL             II::::::IIY::::::Y     Y::::::Y        A:::::::A            
+           A:::::::::A             L:::::L                 I::::I  YYY:::::Y   Y:::::YYY       A:::::::::A           
+          A:::::A:::::A            L:::::L                 I::::I     Y:::::Y Y:::::Y         A:::::A:::::A          
+         A:::::A A:::::A           L:::::L                 I::::I      Y:::::Y:::::Y         A:::::A A:::::A         
+        A:::::A   A:::::A          L:::::L                 I::::I       Y:::::::::Y         A:::::A   A:::::A        
+       A:::::A     A:::::A         L:::::L                 I::::I        Y:::::::Y         A:::::A     A:::::A       
+      A:::::AAAAAAAAA:::::A        L:::::L                 I::::I         Y:::::Y         A:::::AAAAAAAAA:::::A      
+     A:::::::::::::::::::::A       L:::::L                 I::::I         Y:::::Y        A:::::::::::::::::::::A     
+    A:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL  I::::I         Y:::::Y       A:::::AAAAAAAAAAAAA:::::A    
+   A:::::A             A:::::A   LL:::::::LLLLLLLLL:::::LII::::::II       Y:::::Y      A:::::A             A:::::A   
+  A:::::A               A:::::A  L::::::::::::::::::::::LI::::::::I    YYYY:::::YYYY  A:::::A               A:::::A  
+ A:::::A                 A:::::A L::::::::::::::::::::::LI::::::::I    Y:::::::::::Y A:::::A                 A:::::A 
+AAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLLIIIIIIIIII    YYYYYYYYYYYYYAAAAAAA                   AAAAAAA
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
                                                                                    
                                                 
                                                 
